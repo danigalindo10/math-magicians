@@ -11,7 +11,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 - Set up Github Actions
-- Set up linter > Lighthouse, Webhint, Stylelint and Eslint.
+- Set up linter > Stylelint, Babel and Eslint.
 
 ### Run tests
 Open your favourite code editor (Optional VSCode), and type on the terminal the `npm run build` and `npm ru start` commands to see the results. 
