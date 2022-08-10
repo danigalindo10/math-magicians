@@ -15,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 - Set up linter > Stylelint, Babel and Eslint.
 
 ### Run tests
-Open your favourite code editor (Optional VSCode), and type on the terminal the `cd my-app` and `npm start` commands to see the results. 
+Open your favourite code editor (Optional VSCode), and type on the terminal the `cd math-magicians` and `npm start` commands to see the results. 
 
 To get a local copy up and running follow these simple example steps.
 
